@@ -6,6 +6,8 @@
 
 ## 📌 ¿Qué es este proyecto?
 
+![Descripci?n de la imagen](https://github.com/Azzlaer/Howarts_Legacy_Saves/blob/main/pantalla.jpeg?raw=true)
+
 Este programa te permite gestionar de forma **segura y visual** las partidas guardadas de **Hogwarts Legacy**, permitiéndote:
 
 - ✅ Convertir partidas de **Epic Games → Steam**
